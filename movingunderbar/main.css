@@ -14,3 +14,13 @@ nav a{
   color: #333;
   font-weight: 700;
 }
+
+.underline {
+  
+  height: 4px;
+  background-color: pink;
+  border-radius: 5px;
+  transition: 0.5s;
+  opacity: 0.7;
+  position: absolute;
+}
